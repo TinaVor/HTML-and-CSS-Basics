@@ -1,0 +1,41 @@
+body {
+    background-image: url("фон.JPG");
+}
+
+.blue {
+  width: 150px;
+  height: 150px;
+  background-color: blue;
+  transform: rotate(45deg);
+  margin: 50px;
+  border-radius: 15px;
+  display: inline-block;
+}
+
+.green {
+  width: 120px;
+  height: 120px;
+  background-color: green;
+  transform: rotate(45deg);
+  margin: 60px 10px;
+  border-radius: 15px;
+  display: inline-block;
+}
+
+.red {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  transform: rotate(45deg);
+  margin: 70px 40px;
+  border-radius: 15px;
+  display: inline-block;
+}
+
+.footer {
+  color: black;
+  font-size: 14px;
+  font-weight: bold;
+  float: left;
+  margin-left: 500px;
+}

@@ -1,0 +1,41 @@
+body{ 
+	background-color:#BEBEBE;
+}
+
+.content {
+	width:400px;
+	margin:20px auto;
+	text-align:center;	
+}
+
+.left-triangle {
+    display: inline-block;
+    border:40px solid transparent;	
+    border-bottom: 40px solid #006716;
+    width:0px;
+    border-top:none;
+    height:0
+}
+
+.center-triangle {
+    display: inline-block;
+    border:60px solid transparent;	
+    border-bottom:none;
+    width:0px;
+    border-top:130px solid #006716;
+    height:0;
+}
+
+.right-triangle {
+    display: inline-block;
+    border:40px solid transparent;	
+    border-bottom: 40px solid #006716;
+    width:0px;
+    border-top:none;
+    height:0
+}
+
+.footer {
+    color: grey;
+    margin-left: 550px;
+}

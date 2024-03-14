@@ -1,0 +1,34 @@
+body{
+	background-color:#D9D5CD;
+}
+
+
+p{
+	padding-left:110px;
+	padding-right:40px;
+	text-align:justify;
+}
+
+.footer {
+	width:1320px;
+	text-align:right;
+}
+
+
+.button a{
+	 text-decoration: none;
+	 color: black;
+	 font-family: "Times New Roman", serif;
+	 font-size:15px;
+	 
+}
+
+.button {
+    position: fixed;
+	top: 50%;
+	border: 1px solid black;
+	background-color: white;
+	float: left;
+	width: 100px;
+	height: 50px;
+}

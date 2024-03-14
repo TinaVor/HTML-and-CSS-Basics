@@ -1,0 +1,38 @@
+body {
+    width: 550px;
+    margin: 60px auto;
+    height: 350px;
+}
+.main {
+    font-family: "Sylfaen";
+    font-size: 25px;
+    color: red;
+    overflow: hidden;
+    margin: 0 0 -2px;
+}
+.main:after {
+    content: "\2014 \2014 \2014 \2014 \2014 \2014 \2014 \2014 \2014 \2014";
+    float: right;
+    color: #F6CED8;
+}
+a {
+    color: red;
+}
+.box {
+    background: linear-gradient(to top, black,dimgray);
+    color: white;
+    padding: 12px;
+    font-family: sans-serif;
+    font-size: 10px;
+    word-spacing: 3px;
+}
+.red {
+    color: crimson;
+}
+.footer {
+    font-family: sans-serif;
+    font-size: 13;
+    color: dimgray;
+    text-align: right;
+}
+

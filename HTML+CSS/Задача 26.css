@@ -1,0 +1,22 @@
+.container{
+    width: 700px;
+	padding: 10px;
+	background-color: #585450;
+	border-top: 5px solid #CC342D;
+	border-radius: 0 0 7px 7px;
+	word-spacing: 20px;
+	font-family: arial;
+	font-size: 14px;
+}
+
+a {
+	color: #F6F6F3;
+	text-decoration: none;
+}
+
+.footer {
+    margin-top:10px;
+	font-family: arial;
+	color: #8E897F;
+	font-size: bold 14px;
+}

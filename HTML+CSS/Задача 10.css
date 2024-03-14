@@ -1,0 +1,41 @@
+.content {
+    margin-top:  -17px;
+    width: 600px;
+    margin-left: 29px;
+    font-family: sans-serif;
+    font-size: 15.5px;
+    line-height: 1.4;
+}
+
+pre {
+    background-color:#f6f5f3;
+    font-size: 13.1px;
+    padding: 7.5px;
+}
+
+code {
+    background-color: #f6f5f3;
+    padding: 4px;
+    border: 1px solid #e6e6e7;
+}
+
+.with-scroll { 
+    overflow-x: scroll; 
+}
+
+span { 
+    color: #2fa6b5; 
+}
+
+i {
+    color: #848e8e; 
+}
+
+.footer {
+    width: 100%;
+    text-align: right;
+    font-family: arial;
+    font-size: 11pt;
+    font-weight: 700;
+    margin-bottom: 0px;
+}

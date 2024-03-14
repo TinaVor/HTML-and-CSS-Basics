@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body {
+      background-color:#FFDEAD;
+	  width:1200px;
+	  font-family:Verdana,georgia,palatino,serif;
+}
+
+.footer {
+        position:absolute;
+		right:0;
+		bottom:0;
+        color: grey; 
+        font-size:1.3em;
+        font-weight:bold;
+}
+	 
+.content {
+    width:25em;
+    color: darkorange;
+    background-color: black;
+    text-indent: 1.5em; /* Отступ первой строки */
+    padding:1em;
+    text-align: justify;
+    border: 2px red solid;
+    margin-left:15em;
+    margin-top:2em;
+}		 

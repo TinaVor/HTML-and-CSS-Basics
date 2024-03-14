@@ -1,0 +1,30 @@
+body {
+	background-color: cyan;
+}
+
+.block-1 , .block-2 , .block-3 , .block-4 , .block-5  {
+	height: 350px;
+	background: white;
+	float: left;
+	margin: 1%;
+}
+
+.block-1 {
+    width: 5%;
+}
+
+.block-2 {
+    width: 10%;
+}
+
+.block-3 {
+    width: 20%;
+}
+
+.block-4 {
+    width: 25%;
+}
+
+.block-5 {
+    width: 30%;
+}

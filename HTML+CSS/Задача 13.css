@@ -1,0 +1,20 @@
+body {
+    background-color: whitesmoke;
+    width: 450px;
+    text-align: right;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin: 60px auto;
+}
+.red {
+    text-transform: uppercase;
+    color:darkred;
+    font-family: serif;
+    font-size: 16px;
+}
+.footer {
+    font-family: sans-serif;
+    font-size: 13;
+    color: dimgray;
+    text-align: right;
+}

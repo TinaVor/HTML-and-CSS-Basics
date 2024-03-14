@@ -1,0 +1,23 @@
+body {
+    background: url("фон.JPG");
+    font-family: Georgia, "Century Schoolbook L", Serif;
+}
+h1 {
+    text-align: center;
+    color: darkolivegreen;
+}
+div {
+    width: 350px;
+    margin: 60px auto;
+}
+ul {
+    margin-left: -20px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.footer {
+    margin-top: -10px;
+    display: block;
+    text-align: right
+}
+
